@@ -2,7 +2,7 @@
 - 👀 I’m interested in Embedded Systems and Machine Learning
 - 🌱 I’m currently learning Ruby on Rails
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via email @jhaymarsabino1@gmail.com
+- 📫 How to reach me via email @jhaymarsabino@gmail.com
 
 <!---
 jcsabino29/jcsabino29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
